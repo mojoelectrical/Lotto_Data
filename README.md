@@ -6,3 +6,7 @@ Finds number of times an entire sequence of numbers has been played for LottoMax
 
 
 Generates the sequence of numbers for LottoMax
+
+Code tested on Spyder(4.7)
+
+
